@@ -53,4 +53,3 @@ typedef struct PACKED {
 
 void housekeeping_task_keychron(void);
 bool process_record_keychron(uint16_t keycode, keyrecord_t *record);
-
